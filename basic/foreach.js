@@ -35,13 +35,13 @@ for (let i = 0; i < 10; i++) {
   }
 console.log(text);
 
-//continue statment
 
-for (let i = 0; i < 10; i++) {
-    if (i === 3) { 
-        continue; 
-    }
-    text += "The number is " + i ;
-  }
+// for (let i = 0; i < 10; i++) {
+//     if (i === 3) { 
+//         continue; 
+//     }
+    
+//     text += "The number is " + i ;
+//   }
 
-  console.log(text);
+//   console.log(text);
